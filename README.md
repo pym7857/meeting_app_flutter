@@ -3,6 +3,9 @@
 ## ⚠dependancy및 각종 이슈사항은 issue탭에 올리세요.
 완료된 issue는 🚫closed 해주세요.
 
+## ⚠반드시 본인의 branch에서 작업하세요.
+완료된 작업은 main에 merge request해주세요.
+
 ## ✔team profile
 | YoungMin Park | SeongWon Moon | SeongRyeol Jung |
 | :---: | :---: | :---: |
