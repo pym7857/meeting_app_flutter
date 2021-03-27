@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198935623835",
+    "project_id": "flash-chat-fff3a",
+    "storage_bucket": "flash-chat-fff3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198935623835:android:c7f3eef6e3585e3febee3e",
+        "android_client_info": {
+          "package_name": "co.ympark.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198935623835-r3ec4cakdtkbh54ui1s2r32ovdsfh4pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgz5k3SjalizsYRQ7b9XMQBcaBlhsQJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198935623835-r3ec4cakdtkbh54ui1s2r32ovdsfh4pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
