@@ -1,7 +1,7 @@
 # meeting_app_flutter
 
-## dependancy및 각종 이슈사항은 issue탭에 올리세요.
-완료된 issue는 closed 해주세요.
+## ⚠dependancy및 각종 이슈사항은 issue탭에 올리세요.
+완료된 issue는 🚫closed 해주세요.
 
 ## team profile
 | Youngmin Park | Seongwon Moon | SeongRyeol Jung |
